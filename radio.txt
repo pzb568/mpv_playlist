@@ -1,0 +1,4 @@
+http://lhttp.qingting.fm/live/4576/64k.mp3
+http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8
+http://ngcdn002.cnr.cn/live/jjzs48/index.m3u8
+http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
