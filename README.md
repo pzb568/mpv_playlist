@@ -4,9 +4,9 @@
 ## 打开网页搜索音乐
 http://music.bbbbbb.me/
 
-## 复制音乐地址到muic.txt文件中
+## 复制音乐地址保存到muic.txt文件中
 
 ## 播放
-
+```
 mpv --playlist music.txt
-
+```
